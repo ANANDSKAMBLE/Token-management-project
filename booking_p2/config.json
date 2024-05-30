@@ -1,16 +1,16 @@
 {
     "db":{
-        "host":"localhost",
-        "username":"root",
-        "password":"kamble",
+        "host":"",
+        "username":"",
+        "password":"",
         "database":"booking_project"
     },
 
     "emailCredentials":{
         "service": "gmail",
         "auth": {
-                    "user": "kambleanand2001@gmail.com",
-                    "pass": "ylqw vezh jsab xnas"
+                    "user": "",
+                    "pass": ""
                 }
     }
 }
